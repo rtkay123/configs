@@ -1,0 +1,9 @@
+import = ["~/.config/alacritty/terafox.toml"]
+
+[window]
+opacity = 0.9
+blur = true
+padding = { x = 5, y = 0 }
+
+[font]
+size = 12
